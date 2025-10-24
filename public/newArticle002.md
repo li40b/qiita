@@ -3,11 +3,11 @@ title: 健康管理アプリの技術選定についてまとめてみた（#2 �
 tags:
   - 個人開発
   - Next.js
-  - Supabase
   - 技術選定
+  - Supabase
 private: false
-updated_at: '2025-10-24'
-id: ''
+updated_at: '2025-10-25T06:15:53+09:00'
+id: 6fe49682ebd41695cd36
 organization_url_name: null
 slide: false
 ignorePublish: false
