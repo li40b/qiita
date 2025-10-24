@@ -1,7 +1,7 @@
 ---
 title: newArticle001
 tags:
-  - ''
+  - 'テスト'
 private: false
 updated_at: ''
 id: null
