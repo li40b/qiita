@@ -12,3 +12,4 @@ ignorePublish: false
 # new article body
 
 ## はじめに
+qiita cliを使ったテスト投稿
