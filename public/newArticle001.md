@@ -1,7 +1,7 @@
 ---
 title: newArticle001
 tags:
-  - ''
+  - 'てっすと'
 private: false
 updated_at: ''
 id: null
