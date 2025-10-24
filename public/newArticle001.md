@@ -1,10 +1,10 @@
 ---
 title: 健康管理アプリを作ろうと思った話（#1 企画編）
 tags:
-  - '個人開発'
-  - 'next.js' 
+  - 個人開発
+  - Next.js
 private: false
-updated_at: '2025-10-24T20:44:45+09:00'
+updated_at: '2025-10-24T20:59:10+09:00'
 id: 1aba1bbd77ca6b1591ff
 organization_url_name: null
 slide: false
