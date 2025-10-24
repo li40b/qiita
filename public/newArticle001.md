@@ -1,5 +1,5 @@
 ---
-title: newArticle001
+title: テスト投稿
 tags:
   - 'テスト'
 private: false
