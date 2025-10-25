@@ -1,12 +1,12 @@
 ---
 title: 健康管理アプリの開発環境を構築してみた（#3 開発環境構築編）
 tags:
+  - 環境構築
   - 個人開発
   - Next.js
-  - 環境構築
 private: false
-updated_at: '2025-10-26'
-id: null
+updated_at: '2025-10-26T02:19:52+09:00'
+id: 5f5d8a2c4462d57a56a4
 organization_url_name: null
 slide: false
 ignorePublish: false
