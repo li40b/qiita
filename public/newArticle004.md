@@ -1,14 +1,14 @@
 ---
 title: 健康管理アプリの開発環境を構築してみた（#4 認証機能実装編）
 tags:
-  - Next.js
-  - Prisma
-  - Supabase
-  - NextAuth
   - 個人開発
+  - Next.js
+  - prisma
+  - Supabase
+  - nextauth
 private: false
-updated_at: '2025-10-26T17:30:00+09:00'
-id: null
+updated_at: '2025-10-26T12:56:07+09:00'
+id: d40fc1d935b49b7828f3
 organization_url_name: null
 slide: false
 ignorePublish: false
